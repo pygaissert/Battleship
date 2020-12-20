@@ -1,5 +1,5 @@
 # Battleship
-## One-player version of the classic game Battleship
+### One-player version of the classic game Battleship
 Author: Philipp Gaissert<br/>
 
 
